@@ -1,0 +1,8 @@
+{
+  "name": "YT-AUTO Command Center",
+  "description": "Production-grade YouTube automation suite and AI workflow canvas governed by the Strict Master Plan.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
