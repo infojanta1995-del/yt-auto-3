@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+AI STUDIO STRICT MASTER PLAN PACKAGE
 
-# Run and deploy your AI Studio app
+This ZIP contains the approved plan summaries, diagrams, decisions, implementation roadmap, test matrix, status tracker, and ChatGPT/Google AI Studio handoff process.
 
-This contains everything you need to run your app locally.
+Start with:
+00_START_HERE.md
+then read 01_MASTER_PLAN.md and 04_STRICT_COMPLIANCE_RULES.md.
 
-View your app in AI Studio: https://ai.studio/apps/8db3e649-3d95-4b7a-96da-d6f4affc26ce
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Important status note:
+This package documents the plan. It does not contain a completed application or verified app source code. The actual codebase must be audited before implementation status can be asserted. Exact original skill prompts must be imported from their authoritative source.
